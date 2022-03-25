@@ -1,0 +1,20 @@
+h1{
+	font-family: sans-serif;
+	font-size: 25px;
+	color: red;
+}
+.welcome{
+	font-family: times-new-roman;
+	font-size: 30px;
+	color : black;
+}
+.aboutus{
+	font-family: times-new-roman;
+	font-size: 30px;
+	color : black;
+}
+.contactus{
+	font-family: sans-serif;
+	font-size: 30px;
+	color : black;
+}
